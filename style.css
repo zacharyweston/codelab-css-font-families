@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "HelvChildren";
+  src: url("HelvChildren.otf") format("opentype");
+}
+
+h1 {
+  font-family: "HelvChildren", sans-serif;
+}
+
+ul {
+  font-family: "Open Sans Condensed", sans-serif;
+}
